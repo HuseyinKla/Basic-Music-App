@@ -5,3 +5,5 @@
 A few resources to get you started if this is your first React Native project:
 - [Introduction: Useful React Native samples](https://reactnative.dev/docs/getting-started)
 - [React Native documentation](https://reactnative.dev/)
+
+For a better understanding of React Native, check out [Architecture Overview](https://reactnative.dev/architecture/overview).
